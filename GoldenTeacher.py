@@ -37,6 +37,7 @@ Title.pack()
 # global variable on/off ( Boolean ) | Turned on/off main program
 global isOn
 isOn = True
+On_Main_While = False
 # Switching a color of on/off button | Turned on/off main program
 def switch():
     global isOn
@@ -71,8 +72,10 @@ def switch():
 
         # Initialize the webcam
         cap = cv2.VideoCapture(0)
+        global On_Main_While
+        On_Main_While = True
 
-        while True:
+        while On_Main_While:
             # Read frame's
             _, frame = cap.read()
             x, y, c = frame.shape
@@ -155,6 +158,7 @@ def switch():
 
             # press Q or make 'Okay' to stop the program
             if cv2.waitKey(1) == ord('q') or isOff:
+                On_Main_While = False
                 break
 
 
