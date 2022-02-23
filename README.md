@@ -15,23 +15,24 @@ Gui jest świetne w swej prostocie , zawiera jedynie 3 przyciski z czego jedynie
 wpływać na działanie programu.Ten środkowy odwołuje się repozytorium na Github'ie aby łatwiej można  było rozpowszechniać
 ten software.
 # Graphic User Interface: 
-![](../../../Desktop/opis_gestow/gui.png)
+<img width="197" alt="gui" src="https://user-images.githubusercontent.com/77780238/155394963-cfe0232e-ad15-48f5-858f-a454a8985249.png">
 # Gesty kontrolujące windows'a:
 ### Przesuwa slide w prawo :
-![](../../../Desktop/opis_gestow/slide_right.png)
+<img width="322" alt="slide_right" src="https://user-images.githubusercontent.com/77780238/155394996-53c5cbd5-0eb9-41c9-95c5-38a390cbf454.png">
 ### Przesuwa slide w lewo : 
-![](../../../Desktop/opis_gestow/slide_left.png)
-###Scroll'uje do góry :
-![](../../../Desktop/opis_gestow/up.png)
+<img width="319" alt="slide_left" src="https://user-images.githubusercontent.com/77780238/155395081-b4fe158c-e5aa-4f82-a54d-355306d829e7.png">
+### Scroll'uje do góry :
+![up](https://user-images.githubusercontent.com/77780238/155395099-b6eb69d8-0d35-4f58-bc3c-a9e9eb0ecdd5.png)
 ### Scroll'uje w dół
-![](../../../Desktop/opis_gestow/down.png)
+<img width="319" alt="down" src="https://user-images.githubusercontent.com/77780238/155395128-5c94575c-031f-4612-aade-125ea57cfb36.png">
 ### Robi screenshot'a
-![](../../../Desktop/opis_gestow/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/77780238/155395142-55f35df1-fac3-44af-8dd9-9f2acccb4162.png)
 ### Włącza Whatsapp'a
-![](../../../Desktop/opis_gestow/turn_on_whatsapp.png)
+![turn_on_whatsapp](https://user-images.githubusercontent.com/77780238/155395158-355cfcc1-c624-4550-ae4a-d874bf85463d.png)
 ### Zatrzymuje Video
-![](../../../Desktop/opis_gestow/stop.png)
+<img width="313" alt="stop" src="https://user-images.githubusercontent.com/77780238/155395221-c8828608-15e0-4914-8df0-63e0996bedda.png">
 ### Zatrzymuje działanie programu
-![](../../../Desktop/opis_gestow/close.png)
+<img width="319" alt="close" src="https://user-images.githubusercontent.com/77780238/155395204-1a2003ff-4c0e-4749-aea1-352a0614312c.png">
+
 ## Wzorce
 https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
