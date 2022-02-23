@@ -25,7 +25,7 @@ ten software.
 ### Przesuwa slide w Lewo :
 <img src="../../../Desktop/opis_gestow/slide_left.png"/>
 
-###Scroll'uje do góry :
+### Scroll'uje do góry :
 <img src="../../../Desktop/opis_gestow/up.png"/>
 
 ### Scroll'uje w dół
