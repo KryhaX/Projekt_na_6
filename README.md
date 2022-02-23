@@ -22,7 +22,7 @@ ten software.
 ### Przesuwa slide w lewo : 
 <img width="319" alt="slide_left" src="https://user-images.githubusercontent.com/77780238/155395081-b4fe158c-e5aa-4f82-a54d-355306d829e7.png">
 ### Scroll'uje do góry :
-![up](https://user-images.githubusercontent.com/77780238/155395099-b6eb69d8-0d35-4f58-bc3c-a9e9eb0ecdd5.png)
+![up](https://user-images.githubusercontent.com/77780238/155395383-7ec2305e-6d90-4847-b94c-405b85333dfe.png)
 ### Scroll'uje w dół
 <img width="319" alt="down" src="https://user-images.githubusercontent.com/77780238/155395128-5c94575c-031f-4612-aade-125ea57cfb36.png">
 ### Robi screenshot'a
