@@ -1,9 +1,9 @@
 # Projekt_na_6 by Krystian Wierciak
 # Golden Teacher
-### GoldenTeacher, rozwiązanie dla wielu nauczycieli, lektorów, prelegentów... 
+### GoldenTeacher - rozwiązanie dla wielu nauczycieli, lektorów, prelegentów... 
 czy chociażby wykładowców na uczelni którzy prowadząc zajęcia dla większej publiki. Moje rozwiązanie jest w stanie im to
-uprościć. Poprzez program GoldenTeacher wykładowcy są w stanie skupić pełną uwagę na uczniach , nie musząc co chwila
-podchodzić do komputera aby zmienić slajd , zrobić screenshot'a , czy chociażby włączyć Whatsapp'a. 
+uprościć. Poprzez program GoldenTeacher wykładowcy są w stanie skupić pełną uwagę na uczniach. Nie musząc co chwila
+podchodzić do komputera aby zmienić slajd , zrobić screenshot'a czy chociażby włączyć Whatsapp'a. 
 ## Od strony technicznej:
 Posłużyłem się rozwiązaniem pewnego programisty który wytrenował model za pomocą uczenia maszynowego aby wykrywał i 
 rozpoznawał różne gesty. Następnie po wykorzystaniu odpowiednich bibliotek udało mi się przypisać tym gestom 
