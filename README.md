@@ -17,9 +17,9 @@ ten software.
 # Graphic User Interface: 
 ![](../../../Desktop/opis_gestow/gui.png)
 # Gesty kontrolujące windows'a:
-### Przesuwa slide w prawo :
+### Przesuwa slide w Prawo :
 ![](../../../Desktop/opis_gestow/slide_right.png)
-### Przesuwa slide w lewo : 
+### Przesuwa slide w Lewo : 
 ![](../../../Desktop/opis_gestow/slide_left.png)
 ###Scroll'uje do góry :
 ![](../../../Desktop/opis_gestow/up.png)
