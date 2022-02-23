@@ -15,25 +15,17 @@ Gui jest świetne w swej prostocie , zawiera jedynie 3 przyciski z czego jedynie
 wpływać na działanie programu.Ten środkowy odwołuje się repozytorium na Github'ie aby łatwiej można  było rozpowszechniać
 ten software.
 # Graphic User Interface:
-
-<img src="../../../Desktop/opis_gestow/gui.png"/>
-
+<img width="197" alt="gui" src="https://user-images.githubusercontent.com/77780238/155403110-1d2839be-2a13-4986-aa39-ce9f5c3d7b7f.png">
 # Gesty kontrolujące windows'a:
 ### Przesuwa slide w Prawo :
-<img src="../../../Desktop/opis_gestow/slide_right.png"/>
-
+<img width="322" alt="slide_right" src="https://user-images.githubusercontent.com/77780238/155403143-d146da13-4421-46fa-a2ee-4c6224318643.png">
 ### Przesuwa slide w Lewo :
-<img src="../../../Desktop/opis_gestow/slide_left.png"/>
-
+<img width="319" alt="slide_left" src="https://user-images.githubusercontent.com/77780238/155403185-a5cbc4ca-d914-446e-b68d-881c852eeeeb.png">
 ### Scroll'uje do góry :
-<img src="../../../Desktop/opis_gestow/up.png"/>
 
 ### Scroll'uje w dół
-<img src="../../../Desktop/opis_gestow/down.png"/>
-
+<img width="319" alt="down" src="https://user-images.githubusercontent.com/77780238/155403276-ffbce1aa-9710-41a4-b296-d4d944f8d90f.png">
 ### Robi screenshot'a
-
-<img src="../../../Desktop/opis_gestow/screenshot.png"/>
 
 ### Włącza Whatsapp'a
 <img src="../../../Desktop/opis_gestow/turn_on_whatsapp.png"/>
