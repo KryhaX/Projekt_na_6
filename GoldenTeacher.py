@@ -186,6 +186,7 @@ def switch():
                     global turn_on_whatsapp
                     turn_on_whatsapp = True
 
+
             # Assignment Gesture to the keyboard button
             for g, k in gestures_keys.items():
                 assign_key_to_gesture(g, k)
@@ -195,8 +196,10 @@ def switch():
                 time_now = datetime.datetime.now()
                 str_time = '{}_{}'.format(time_now.hour, time_now.minute)
                 sc.save('screenshot{}{}.png'.format(str_time, uuid.uuid4()))
+                make_screenshot = False
             if turn_on_whatsapp:
                 webbrowser.open(whatsapp_url)
+                turn_on_whatsapp = False
 
             # press Q or make 'Okay' to stop the program
             if cv2.waitKey(1) == ord('q') or is_off:
