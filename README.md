@@ -4,7 +4,7 @@
 czy chociażby wykładowców na uczelni którzy prowadząc zajęcia dla większej publiki. Moje rozwiązanie jest w stanie im to
 uprościć. Poprzez program GoldenTeacher wykładowcy są w stanie skupić pełną uwagę na uczniach , nie musząc co chwila
 podchodzić do komputera aby zmienić slajd , zrobić screenshot'a , czy chociażby włączyć Whatsapp'a. 
-##Od strony technicznej:
+## Od strony technicznej:
 Posłużyłem się rozwiązaniem pewnego programisty który wytrenował model za pomocą uczenia maszynowego aby wykrywał i 
 rozpoznawał różne gesty. Następnie po wykorzystaniu odpowiednich bibliotek udało mi się przypisać tym gestom 
 odpowiednie funkcjonalności. Później stworzyłem interfejs aby każdy człowiek był w stanie wypróbować mój program. 
@@ -16,8 +16,8 @@ wpływać na działanie programu.Ten środkowy odwołuje się repozytorium na Gi
 ten software.
 # Graphic User Interface: 
 ![](../../../Desktop/opis_gestow/gui.png)
-#Gesty kontrolujące windows'a:
-###Przesuwa slide w prawo :
+# Gesty kontrolujące windows'a:
+### Przesuwa slide w prawo :
 ![](../../../Desktop/opis_gestow/slide_right.png)
 ### Przesuwa slide w lewo : 
 ![](../../../Desktop/opis_gestow/slide_left.png)
