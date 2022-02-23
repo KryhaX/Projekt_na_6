@@ -14,24 +14,35 @@ Starałem sie jak najlepiej ująć styl pisania tak jak jest w dokumentacji PEP 
 Gui jest świetne w swej prostocie , zawiera jedynie 3 przyciski z czego jedynie dwa ( close , On ) mogą realnie 
 wpływać na działanie programu.Ten środkowy odwołuje się repozytorium na Github'ie aby łatwiej można  było rozpowszechniać
 ten software.
-# Graphic User Interface: 
-![](../../../Desktop/opis_gestow/gui.png)
+# Graphic User Interface:
+
+<img src="../../../Desktop/opis_gestow/gui.png"/>
+
 # Gesty kontrolujące windows'a:
 ### Przesuwa slide w Prawo :
-![](../../../Desktop/opis_gestow/slide_right.png)
-### Przesuwa slide w Lewo : 
-![](../../../Desktop/opis_gestow/slide_left.png)
+<img src="../../../Desktop/opis_gestow/slide_right.png"/>
+
+### Przesuwa slide w Lewo :
+<img src="../../../Desktop/opis_gestow/slide_left.png"/>
+
 ###Scroll'uje do góry :
-![](../../../Desktop/opis_gestow/up.png)
+<img src="../../../Desktop/opis_gestow/up.png"/>
+
 ### Scroll'uje w dół
-![](../../../Desktop/opis_gestow/down.png)
+<img src="../../../Desktop/opis_gestow/down.png"/>
+
 ### Robi screenshot'a
-![](../../../Desktop/opis_gestow/screenshot.png)
+
+<img src="../../../Desktop/opis_gestow/screenshot.png"/>
+
 ### Włącza Whatsapp'a
-![](../../../Desktop/opis_gestow/turn_on_whatsapp.png)
+<img src="../../../Desktop/opis_gestow/turn_on_whatsapp.png"/>
+
 ### Zatrzymuje Video
-![](../../../Desktop/opis_gestow/stop.png)
+<img src="../../../Desktop/opis_gestow/stop.png"/>
+
 ### Zatrzymuje działanie programu
-![](../../../Desktop/opis_gestow/close.png)
+<img src="../../../Desktop/opis_gestow/close.png"/>
+
 ## Wzorce
 https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
