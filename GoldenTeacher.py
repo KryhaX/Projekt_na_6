@@ -101,7 +101,7 @@ def switch():
 
         global on_main_while
         on_main_while = True
-        # Main Loop
+
         while on_main_while:
             # Read frame's
             _, frame = cap.read()
@@ -175,8 +175,9 @@ def switch():
                     pyautogui.sleep(1)
 
                 elif class_name == 'close':
-                    global is_off
-                    is_off = True
+                    pass
+                    # global is_off
+                    # is_off = True
 
                 elif class_name == 'screenshot':
                     global make_screenshot
@@ -197,11 +198,12 @@ def switch():
                 str_time = '{}_{}'.format(time_now.hour, time_now.minute)
                 sc.save('screenshot{}{}.png'.format(str_time, uuid.uuid4()))
                 make_screenshot = False
+
             if turn_on_whatsapp:
                 webbrowser.open(whatsapp_url)
                 turn_on_whatsapp = False
 
-            # press Q or make 'Okay' to stop the program
+            # press Q or make 'rock' to stop the program
             if cv2.waitKey(1) == ord('q') or is_off:
                 on_main_while = False
                 break
