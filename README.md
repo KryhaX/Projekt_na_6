@@ -1,18 +1,18 @@
 # Projekt_na_6 by Krystian Wierciak
 # Golden Teacher
 ### GoldenTeacher - rozwiązanie dla wielu nauczycieli, lektorów, prelegentów... 
-czy chociażby wykładowców na uczelni którzy, prowadzą zajęcia dla większej publiki. Moje rozwiązanie jest w stanie im to
+czy chociażby wykładowców na uczelni, którzy prowadzą zajęcia dla większej publiki. Moje rozwiązanie jest w stanie im to
 uprościć. Poprzez program GoldenTeacher wykładowcy są w stanie skupić pełną uwagę na uczniach, nie musząc co chwila
 podchodzić do komputera, aby zmienić slajd , zrobić screenshot'a czy chociażby włączyć Whatsapp'a. 
 ## Od strony technicznej:
 Posłużyłem się rozwiązaniem pewnego programisty, który wytrenował model za pomocą uczenia maszynowego, aby wykrywał i 
 rozpoznawał różne gesty. Następnie, po wykorzystaniu odpowiednich bibliotek udało mi się przypisać tym gestom 
 odpowiednie funkcjonalności. Później stworzyłem interfejs, aby każdy człowiek był w stanie wypróbować mój program. 
-Starałem sie jak najlepiej ująć styl pisania tak jak jest w dokumentacji PEP 8.
+Starałem się jak najlepiej ująć styl pisania tak jak jest w dokumentacji PEP 8.
 * (https://www.python.org/dev/peps/pep-0008/)
 # GUI
 Gui jest świetne w swej prostocie , zawiera jedynie 3 przyciski z czego jedynie dwa ( close , On ) mogą realnie 
-wpływać na działanie programu.Ten środkowy odwołuje się repozytorium na Github'ie aby łatwiej można  było rozpowszechniać
+wpływać na działanie programu. Ten środkowy odwołuje się do repozytorium na Github'ie, aby łatwiej można  było rozpowszechniać
 ten software.
 # Graphic User Interface:
 <img width="197" alt="gui" src="https://user-images.githubusercontent.com/77780238/155403110-1d2839be-2a13-4986-aa39-ce9f5c3d7b7f.png">
